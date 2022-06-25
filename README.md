@@ -1,2 +1,2 @@
 # test_DA
-test of data analysis
+This is a test of Data Analysis exercise regarding: https://www.kaggle.com/competitions/auto-insurance-fall-2017/overview
